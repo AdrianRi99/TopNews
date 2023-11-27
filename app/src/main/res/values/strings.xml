@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TopNews</string>
+
+    <array name="categories_array">
+        <item>TopNews</item>
+        <item>Austria</item>
+        <item>Sport</item>
+    </array>
+
+</resources>
